@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # Reddit ManU downvote bot, v1.0
-# rostislav@tsiomenko.com
+# rostislav.tsiomenko@gmail.com
+# Note this is probably unethical
 import praw
 import time
 
